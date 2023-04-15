@@ -4,7 +4,7 @@ public class Main_method
 {
 public static void main(String[] args) 
 {
-	addition();
+	addition();  
 	System.out.println("---------------------");
 	Main_method M =new Main_method();
 	M.substraction();
